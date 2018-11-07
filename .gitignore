@@ -1,0 +1,12 @@
+
+admin-server/target/
+
+config-server/target/
+
+eureka-server/target/
+
+gys-adr/target/
+
+gys-adrclient/target/
+
+gys-model/target/
